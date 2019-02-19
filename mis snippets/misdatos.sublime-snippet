@@ -1,11 +1,9 @@
 <snippet>
 	<content><![CDATA[
-Hola, Analisis y Desarrollo de Sistemas de Informacion
-1804230 Centro de Procesos Industriales y Construccion
-SENA Regional caldas.
+Hola, ${1:nombre} esta es mi ${2:direccion}.
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>adsi1804230</tabTrigger>
+	<tabTrigger>misdatos</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>
