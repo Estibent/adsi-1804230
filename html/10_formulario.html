@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Formulario HTML</title>
+</head>
+<body>
+	<form action="" method="post">
+		<fieldset>
+			<!-- Datos Personales -->
+			<legend><h4>Datos Personales</h4></legend>
+			<label for="nombre">Nombre Completo:</label>
+			<input type="text" id="nombre">
+			<br>
+			<br>
+			<label for="genero">Genero:</label>
+			<select  id="genero">
+				<option value="">Seleccione...</option>
+				<option value="F">Femenino</option>
+				<option value="M">Masculino</option>
+			</select>
+			<br>
+			<br>
+			<label for="Clave">Contraseña:</label>
+			<input type="password" id="clave">
+			<br>
+			<br>
+			<label for="descipcion">Descipcion:</label>
+			<br>
+			<textarea id="descripcion" cols="30" rows="10"></textarea>	
+		</fieldset>
+		    <!-- Datos Institucionales -->
+		    <fildset>
+		    	<legend>
+		    		<h4>Datos Institucionales</h4>
+		    	</legend>
+		    	Selleccione Titulacion
+		    	<br>
+		    	<label >
+		    		<input type="radio" name="titulacion">TGO Motores Disel
+		    	</label>
+		    	<br>
+		    	<label >
+		    		<input type="radio" name="titulacion">TGO ADSI
+		    	</label>
+		    	<br>
+		    	<label >
+		    	<input type="radio" name="titulacion">TGO Desarrolle Grafico
+		    		
+		    	</label>
+		    	<br>
+		    	<label>
+		    		<input type="radio" name="titulacion">TGO Soldadura
+		    	</label>
+		    	<br>
+		    	<br>
+		    	Seleccione Transversales Favoritas:
+		    	<br>
+		    	<label >
+		    		<input type="checkbox">Ingles
+		    	</label>
+		    	<br>
+		    	<label >
+		    		<input type="checkbox">Matematicas
+		    	</label>
+		    	<br>
+		    	<label >
+		    		<input type="checkbox">Cultura Fisica
+		    	</label>
+		    	<br>
+		    	<label >
+		    		<input type="checkbox">Ambiental
+		    	</label>
+		    	<br><br>
+		    	<label for="foto"></label>
+		    	<input type="file" id="foto" accept="image/*">	
+		    	<br><br>
+		    	<input type="submit" value="Enviar Datos">
+		    	<input type="reset" value="Limpiar Datos">
+
+		    </fildset>
+	</form>
+</body>
+</html>
