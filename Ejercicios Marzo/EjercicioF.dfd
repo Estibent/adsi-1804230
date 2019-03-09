@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+"Ingrese un numero entero"
+5
+1
+7
+Numero1
+4
+1
+26
+"Ingrese un numero entero"
+5
+1
+7
+Numero2
+4
+1
+26
+"Ingrese un numero entero"
+5
+1
+7
+Numero3
+4
+1
+26
+"Ingrese un numero entero"
+5
+1
+7
+Numero4
+7
+0
+1
+51
+Numero1>Numero2andNumero1>Numero3andNumero1>Numero4
+7
+0
+1
+33
+Numero2>Numero3andNumero2>Numero4
+7
+0
+1
+25
+Numero3andNumero2>Numero4
+13
+13
+13
+13
+13
+13
+1

@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+"Ingrese un valor"
+5
+1
+5
+Valor
+7
+0
+1
+8
+Valor>=0
+4
+1
+20
+"El valor no aplica"
+13
+4
+1
+20
+"Ingrese otro Valor"
+5
+1
+6
+Valor2
+6
+3
+4
+Suma
+12
+Valor+Valor2
+5
+Resta
+12
+Valor-Valor2
+14
+Multiplicacion
+12
+Valor*Valor2
+4
+1
+117
+"El Resultado de la suma es",Valor,"+",Valor2,"=",Suma,Valor,"-",Valor2,"=",Resta,Valor,"*",Valor2,"=",Multiplicacion
+13
+1
